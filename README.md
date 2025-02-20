@@ -2,12 +2,12 @@
 This script automates the connection process for Nexus.xyz by clicking the "CONNECT TO NEXUS" button on the platform. It saves time by eliminating the need for manual clicks and is designed to work directly in your browser's console
 
 
-🚀 **自动连接 Nexus.xyz 的脚本！** ⚡️
+🚀 **自动连接 app.nexus.xyz 的脚本！** ⚡️
 
-👨‍💻 想让连接 Nexus.xyz 更省时？用这个简单的 **控制台脚本**，一键自动连接，跳过手动操作，轻松搞定！💡
+👨‍💻 想让连接 app.nexus.xyz 更省时？用这个简单的 **控制台脚本**，一键自动连接，跳过手动操作，轻松搞定！💡
 
 🔧 **如何使用**：
-1. 打开 **Nexus.xyz** 网站
+1. 打开 **app.nexus.xyz** 网站
 2. 按下 **F12** 打开开发者工具，切换到 **控制台**（Console）
 3. **首次粘贴时，浏览器会警告要求确认是否允许粘贴代码**。在弹出框中输入 **"allow pasting"**，然后按下 **Enter**。
 4. 粘贴下面的脚本并按下 **Enter**，脚本会自动帮你点击连接按钮，节省时间！⚡️
